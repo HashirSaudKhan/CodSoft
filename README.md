@@ -1,4 +1,4 @@
 # CodSoft
-TASK #01 : TO DO LIST 
-TASK #02 : Calculator 
-TASK #03 : Passward Generator 
+TASK #01 : TO DO LIST <br />
+TASK #02 : CALCULATOR <br />
+TASK #03 : PASSWORD GENERATOR <br />
